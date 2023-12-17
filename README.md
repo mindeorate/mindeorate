@@ -8,6 +8,6 @@ copyright by mindeorate
 
 <br><br>
 ACTUALLY I PREFER<br>
- :C<br>
+ :C language<br>
  :PYTHON<br>
  :HTML,JS,CSS(server)
